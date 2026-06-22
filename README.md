@@ -4,7 +4,8 @@
 An IoT-based smart room automation system that monitors temperature, humidity, and motion in real time, then automatically controls room lighting and a fan.
 
 The system uses an **ESP8266 NodeMCU**, **DHT11 temperature and humidity sensor**, **PIR motion sensor**, **relay module**, **LED light**, and the **Blynk IoT platform** for live monitoring and manual control.
-![Prototype](media/prototype-clean.png)
+
+![Prototype](prototype-clean.png)
 
 ## Overview
 
@@ -89,16 +90,8 @@ ELSE
     Fan turns OFF
 ```
 
-## Project Photos
 
-### Prototype
-![Prototype](media/prototype-clean.png)
-
-### Building and Testing
-![Building the Project](media/building-the-project.jpeg)
-
-
-![Blynk Dashboard](media/blynk-dashboard.png)
+![Blynk Dashboard](blynk-dashboard.png)
 
 ## How to Run
 
