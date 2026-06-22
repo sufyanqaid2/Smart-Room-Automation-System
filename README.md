@@ -5,7 +5,7 @@ An IoT-based smart room automation system that monitors temperature, humidity, a
 
 The system uses an **ESP8266 NodeMCU**, **DHT11 temperature and humidity sensor**, **PIR motion sensor**, **relay module**, **LED light**, and the **Blynk IoT platform** for live monitoring and manual control.
 
-![Prototype](prototype-clean.png)
+![Prototype](Smart-Room-Automation-System/media/prototype-clean.png)
 
 ## Overview
 
@@ -91,8 +91,7 @@ ELSE
 ```
 
 
-![Blynk Dashboard](blynk-dashboard.png)
-
+![Blynk Dashboard](Smart-Room-Automation-System/media/blynk-dashboard.png)
 ## How to Run
 
 1. Install the Arduino IDE.
